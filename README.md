@@ -1,7 +1,6 @@
 # Hey, I'm Lakshin 👋
 
-**Solution Engineer · Backend & Agentic AI Developer · Final-year CSE @ Nirma University**
-
+**Solution Engineer · Backend & Agentic AI Developer · B.Tech CSE, Nirma University**
 ---
 
 ## About me
