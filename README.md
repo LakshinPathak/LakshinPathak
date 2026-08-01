@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./IMG_5337.svg" width="460" alt="Lakshin Pathak"/>
+
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 [linkedin](https://www.linkedin.com/in/lakshinpathak-28304a226) &nbsp;·&nbsp;
