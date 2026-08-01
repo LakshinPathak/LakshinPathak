@@ -1,54 +1,84 @@
-# Hey, I'm Lakshin 👋
+<div align="center">
 
-**Solution Engineer · Backend & Agentic AI Developer · B.Tech CSE, Nirma University**
----
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-## About me
+[linkedin](https://www.linkedin.com/in/lakshinpathak-28304a226) &nbsp;·&nbsp;
+[leetcode](https://leetcode.com/Lbp2563) &nbsp;·&nbsp;
+[email](mailto:lakshin2563@gmail.com)
 
-- 🏢 Solution Engineer at **Tatvic Digital Analytics** — building production-grade Agentic AI systems with LangChain, LangGraph & MCP servers
-- 🔬 Student Researcher, Big Data Analytics Research Group, CSE Dept., Nirma University
-- 📡 IEEE Technical Head, Nirma University Student Branch
-- 🤖 Fellowship.AI, 2024 (Cohort 31) — Data Science & ML Fellow
-- 🌱 Currently deepening expertise in LLM integration, Agentic workflows, and App Development
-- 📫 Reach me at: lakshin2563@gmail.com
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lakshin-pathak-28304a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lakshin-Pathak" height="30" width="40" /></a>
-</p>
+<img src="./hd-about.svg" width="620" alt="about"/>
 
----
+> Solution Engineer building agentic AI systems — LangChain, LangGraph, MCP<br>
+> servers — at Tatvic Digital Analytics. B.Tech CSE, Nirma University.
 
-## 💻 Tech stack
+I build production agentic systems: multi-agent workflows, tool-calling LLMs,<br>
+and the infra that runs them. Independently scoped and shipped Tatvic's first<br>
+client-facing Agentic AI engagement end-to-end, earning a company Spot Award.<br>
+Also active in research — 18+ IEEE publications and talks at IEEE ICC 2026<br>
+(Glasgow) and IEEE INFOCOM 2025 (London).
 
-**Languages:** Python, JavaScript, Java, C, C++, SQL
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-**Frameworks & Libraries:** FastAPI, Django, Node.js, Express.js, React.js, LangChain, LangGraph, TensorFlow, Keras
+<samp>python &nbsp; javascript &nbsp; typescript &nbsp; java &nbsp; c++ &nbsp; sql &nbsp; fastapi &nbsp; django &nbsp; node.js &nbsp; react &nbsp; langchain &nbsp; langgraph &nbsp; tensorflow &nbsp; postgresql &nbsp; mongodb &nbsp; gcp &nbsp; docker</samp>
 
-**Databases & Cloud:** PostgreSQL, MySQL, MongoDB, ClickHouse, Google Cloud Platform (GCP)
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**AI/ML:** Agentic AI Systems, LLM Integration (OpenAI, HuggingFace), Deep Learning, NLP, Computer Vision
+**[geekbid](https://github.com/LakshinPathak/Geekbid)** &nbsp;·&nbsp; <samp>full-stack, ai job matching</samp><br>
+Reverse-auction freelance marketplace: price-decay bidding engine,<br>
+AI-assisted job matching, full design system — solo product, eng, and design.
 
-**Tools & Technologies:** Git, Docker, REST/GraphQL APIs, MCP Servers, Linux
+**[picpostchat](https://github.com/LakshinPathak/PicPostChat--Social-Media-Web-Application)** &nbsp;·&nbsp; <samp>node.js, express, mongodb</samp><br>
+Full-stack social app with real-time chat, post sharing, and auth — live<br>
+in production.
 
----
+**crop disease detection** &nbsp;·&nbsp; <samp>python, flask, tensorflow</samp><br>
+Transfer-learning pipeline (EfficientNet) for crop disease classification,<br>
+served through a Flask web app.
 
-## 🏆 Research & achievements
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
-- 🥇 **Spot Award** at Tatvic for independently leading their first Agentic AI client engagement
-- 🎓 Certificate of Academic Excellence — 6 consecutive semesters (PPI: 9.01/10)
-- 🌐 Presented at **IEEE INFOCOM 2025**, London, UK (acceptance rate <20%)
-- 📄 18+ IEEE publications in AI security, smart grids, UAV communications & explainable AI
-- 💡 Patent: AI-enabled infant care system with adaptive motion control & real-time safety monitoring
+<div align="center">
 
----
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-## 📊 GitHub stats
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-![](https://github-readme-stats.vercel.app/api?username=LakshinPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=LakshinPathak&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshinPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
----
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=LakshinPathak&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated, not embedded from anyone else's server — no<br>
+`github-readme-stats.vercel.app`, no streak-card service that can rate-limit<br>
+or go dark. The stat graphics and these section headings are drawn by<br>
+[a scheduled action](.github/workflows/stats.yml) straight from the GitHub<br>
+GraphQL API, once a day, committing only what changed.
+
+They animate with SMIL inside the SVG, because GitHub strips `<script>` from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64.
+
+Language totals cover public repositories only. `year.svg` uses one character<br>
+ramp — `:` `+` `#` `@` — quiet to loud.
+
+<!--
+A self-typing ASCII portrait (ascii.svg) can sit at the top of this page, the
+same way it does in the original template this repo is built from. It needs a
+real, well-lit photo: side light at roughly 45°, everything else off; a tight
+crop from chin to just above the hair; 1200px+ resolution. Flat frontal light
+and low-res crops both fail — see scripts/make_portrait.py's docstring.
+
+    pip install pillow numpy opencv-python-headless rembg onnxruntime
+    python3 scripts/make_portrait.py photo.png --crop LEFT,TOP,RIGHT,BOTTOM
+    python3 scripts/embed_portrait_font.py
+
+Then add, near the very top of this file:
+    <img src="./ascii.svg" width="460" alt="Lakshin Pathak"/>
+-->
